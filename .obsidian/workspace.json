@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEIMOS.md",
-                "mode": "preview",
+                "file": "Inteligencia Artificial.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEIMOS.md",
+                "file": "Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEIMOS.md",
+                "file": "Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEIMOS.md"
+                "file": "Inteligencia Artificial.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "12fee45cecd1ae93",
   "lastOpenFiles": [
-    "Sin confirmar 955959.crdownload",
+    "Inteligencia Artificial.md",
     "Untitled.canvas",
-    "DEIMOS.md"
+    "Jul 24, 2023 11-16-15 AM Conversation with ChatGPT.md",
+    "Sin confirmar 379037.crdownload",
+    "Sin confirmar 955959.crdownload"
   ]
 }
