@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "890c105b24a88a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "PYTHON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "PYTHON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligencia Artificial.md"
+                "file": "PYTHON.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12fee45cecd1ae93",
+  "active": "890c105b24a88a8e",
   "lastOpenFiles": [
     "Inteligencia Artificial.md",
+    "PYTHON.md",
     "Untitled.canvas",
     "Jul 24, 2023 11-16-15 AM Conversation with ChatGPT.md",
     "Sin confirmar 379037.crdownload",
